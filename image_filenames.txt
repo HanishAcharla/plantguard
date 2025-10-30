@@ -1,0 +1,55 @@
+Plant Disease Image Filenames
+================================
+
+Copy your downloaded Google images to: /Users/hanishacharla/plantguard/assets/images/
+
+Required filenames (38 images):
+
+1. apple_scab.jpg
+2. apple_black_rot.jpg
+3. apple_cedar_rust.jpg
+4. apple_healthy.jpg
+5. blueberry_healthy.jpg
+6. cherry_powdery_mildew.jpg
+7. cherry_healthy.jpg
+8. corn_cercospora_leaf_spot.jpg
+9. corn_common_rust.jpg
+10. corn_northern_leaf_blight.jpg
+11. corn_healthy.jpg
+12. grape_black_rot.jpg
+13. grape_esca.jpg
+14. grape_leaf_blight.jpg
+15. grape_healthy.jpg
+16. orange_huanglongbing.jpg
+17. peach_bacterial_spot.jpg
+18. peach_healthy.jpg
+19. pepper_bacterial_spot.jpg
+20. pepper_healthy.jpg
+21. potato_early_blight.jpg
+22. potato_late_blight.jpg
+23. potato_healthy.jpg
+24. raspberry_healthy.jpg
+25. soybean_healthy.jpg
+26. squash_powdery_mildew.jpg
+27. strawberry_leaf_scorch.jpg
+28. strawberry_healthy.jpg
+29. tomato_bacterial_spot.jpg
+30. tomato_early_blight.jpg
+31. tomato_late_blight.jpg
+32. tomato_leaf_mold.jpg
+33. tomato_septoria_leaf_spot.jpg
+34. tomato_spider_mites.jpg
+35. tomato_target_spot.jpg
+36. tomato_yellow_leaf_curl_virus.jpg
+37. tomato_mosaic_virus.jpg
+38. tomato_healthy.jpg
+
+Instructions:
+1. Download images from Google Images for each disease
+2. Rename them to match the filenames above
+3. Copy them to: assets/images/
+4. Run the app - images will display automatically!
+
+Note: The app already has placeholder images, so it will work even if some images are missing.
+
+
