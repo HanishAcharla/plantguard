@@ -27,7 +27,7 @@ PlantGuard is a comprehensive Flutter application that uses machine learning to 
 - **Success Stories**: Real-world experiences and solutions
 - **Educational Content**: Prevention tips and organic treatment methods
 
-### ⚙️ Settings & Personalization
+### Settings & Personalization
 - **Account Settings**: Profile photo, name, and preferences
 - **Notification Settings**: Customizable alerts and tips
 - **Dark Mode**: Theme switching capability
@@ -255,4 +255,4 @@ For support and questions:
 
 ---
 
-**PlantGuard** - Protecting plants, one scan at a time! 🌱🔍
+**PlantGuard** - Protecting plants, one scan at a time!
